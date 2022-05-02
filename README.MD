@@ -1,4 +1,6 @@
-# Pie Smart Pools
+# inBloom
+
+Forkf of PieDAO smart pools which will be repurposed on a more energy efficient blockchain. 
 
 **Pie Smart Pools** are asset management agnostic(currently Balancer only) **D**ecentralised **T**raded **F**unds. They share a common interface to make them easy to integrate in other products.
 
